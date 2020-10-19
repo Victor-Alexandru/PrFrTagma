@@ -27,5 +27,7 @@ class Solution(object):
 #     def kClosest(self, points, K):
 #         points.sort(key = lambda P: P[0]**2 + P[1]**2)
 #         return points[:K]
+
+
 s = Solution()
 print(s.kClosest(points = [[3,3],[5,-1],[-2,4]] , K=2))
