@@ -1,8 +1,21 @@
-class Solution:
-    def __init__(self):
-        self.memo = {}
+'''
+ewiqioe.py
+awewq.py
+kqkwdkwqkw.py
+woqodqwoiqwoiwdqowdq.py
+wqkklqwkdwqklwdklsdkldwklklwdq'wk
+wdqkwdklwqklwqklwklqklwkwdkqw
+klwklwkqkwkwdkmwdmwsmkdqmdwqkdwqlkd,dqwwqlklkq
+dqlkdwlkwqlkwqklwmkwqmqkkrdweepokewmfkwemdlxkloiqwklkmefw.py
+klfor i in range(0,len())
+ewqwqe.py
+'''
 
-    def recursive_with_memo(self, index, s) -> int:
+class Rez:
+    def __init__(self):
+        self.memoization = {}
+
+    def split_the_number(self, index, s) -> int:
         # If you reach the end of the string
         # Return 1 for success.
         if index == len(s):
@@ -16,23 +29,23 @@ class Solution:
             return 1
 
         # Memoization is needed since we might encounter the same sub-string.
-        if index in self.memo:
-            return self.memo[index]
+        if index in self.memoization:
+            return self.memoization[index]
 
-        ans = self.recursive_with_memo(index+1, s) + (self.recursive_with_memo(index+2, s) if (int(s[index : index+2]) <= 26) else 0)
+        ans = self.split_the_number(index+1, s) + (self.split_the_number(index+2, s) if (int(s[index : index+2]) <= 26) else 0)
         # Save for memoization
-        self.memo[index] = ans
+        self.memoization[index] = ans
         return ans
 
-    def numDecodings(self, s: str) -> int:
+    def decode_routes(self, s: str) -> int:
         if not s:
             return 0
-        return self.recursive_with_memo(0, s)
+        return self.split_the_number(0, s)
 
             
 
 
 
 
-s =  Solution()
-print(s.numDecodings(s='226'))
+s =  Rez()
+print(s.decode_routes(s='123'))
