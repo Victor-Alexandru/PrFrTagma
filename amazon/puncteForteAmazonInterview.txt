@@ -1,0 +1,44 @@
+
+Data structures:
+1.You’ll need to understand the inner workings of common data structures and be able to compare and contrast their usage in various applications.
+2.You will be expected to know the runtimes for common operations as well as how they use memory.
+
+Databases:
+1.The more you know about tradeoffs between relational and non-relational databases, the better prepared you will be.
+
+Obj Oriented design:
+1.You should have a working knowledge of a few common and useful design patterns, along with how to write software in an object-oriented way.
+You likely won’t be asked to describe the details of how specific design patterns work, but expect to have to defend your design choices.
+
+Coding:
+1.Expect to be asked to write syntactically correct code—no pseudo code. 
+
+Distributed computing:
+1.While we have some internal tools that help us with scaling, it’s important to have an understanding of a few basic distributed computing concepts.
+Understanding topics such as service-oriented architectures, map-reduce, distributed caching,
+load balancing, and others, will help you formulate answers to some of the more complicated distributed architecture questions you might encounter.
+
+OS:
+1.You won’t need to know how to build your own operating system from scratch,
+but you should be familiar with some OS topics that can affect code performance
+(e.g. memory management, processes, threads, synchronization, paging, and multithreading).
+
+Internet topics:
+1.Brush up on how browsers function at a high level, from DNS lookups and TCP/IP, to socket connections.
+Having a solid understanding of the fundamentals of how the worldwide web works is a requirement.
+
+RADU :
+
+2 numere cu suma k dintr-un array
+daca un BT e un BST
+
+
+ASSESMENT PACK :
+Algorithms: It’s also important to know efficient ways to manipulate
+data. One great way of doing this is brushing up on some common
+algorithms. We’ll expect that you can apply and discuss the trade
+offs between some commonly used algorithms:
+• Sorting
+• Bubble Sort Merge Sort Quick Sort Radix/Bucket Sort
+• Traversals (On multiple data structures) Depth First Search
+• Breadth First Search
