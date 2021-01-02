@@ -1,7 +1,7 @@
 I've compiled a list of Amazon questions people have been asked who have had 3 virtual interviews for SDE 1:
 Two Sum (#1) -d 
 Median of Two Sorted Arrays * (#4)
-Longest Palindromic Substring (#5)
+Longest Palindromic Substring (#5) - d
 String to Integer (atoi) (#8) -d 
 Integer to Roman (#12) -d 
 Roman to Integer (#13) -d 
