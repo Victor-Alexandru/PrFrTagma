@@ -26,5 +26,4 @@ class Solution(object):
 
             return is_tree_valid(root.left,root.val,lower_bound) and is_tree_valid(root.right,upper_bound,root.val) 
 
-        return is_tree_valid(root,5000000000,-200000000)
-    
+        return is_tree_valid(root,500000000000,-20000000000)

@@ -10,7 +10,7 @@ Merge K Sorted Lists (#23)
 Valid Sudoku (#36)
 Combination Sum (#39) -d 
 Permutations (#46) -d ( backtracking )
-Merge Intervals (#56)
+Merge Intervals (#56) -d
 Rotate List (#61)
 Word Search (#79) 0 -d (backtracking)
 Validate Binary Search Tree(#98) -d
@@ -34,7 +34,7 @@ Design Tic-Tac-Toe (#348)
 Pacific Atlantic Water Flow (#417)
 Minesweeper (#529) -d ( nu am facuto ca nu avea rost )
 Diameter of Binary Tree (#543)
-Reorganize String (#767)
+Reorganize String (#767) -d
 
 * not required to solve
 ~ solve both iteratively and recursively
