@@ -1,17 +1,17 @@
 I've compiled a list of Amazon questions people have been asked who have had 3 virtual interviews for SDE 1:
 Two Sum (#1) -d 
-Median of Two Sorted Arrays * (#4)
+Median of Two Sorted Arrays * (#4) -d ( cu log(m+n))
 Longest Palindromic Substring (#5) -d
 String to Integer (atoi) (#8) -d 
 Integer to Roman (#12) -d 
 Roman to Integer (#13) -d 
 Valid Parentheses (#20) -d ( cu stack )
 Merge K Sorted Lists (#23)
-Valid Sudoku (#36)
+Valid Sudoku (#36) -d 
 Combination Sum (#39) -d 
 Permutations (#46) -d ( backtracking )
 Merge Intervals (#56) -d
-Rotate List (#61)
+Rotate List (#61) -d 
 Word Search (#79) 0 -d (backtracking)
 Validate Binary Search Tree(#98) -d
 Same Tree ~ (#100)
