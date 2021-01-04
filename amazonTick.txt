@@ -14,9 +14,9 @@ Merge Intervals (#56) -d
 Rotate List (#61) -d 
 Word Search (#79) 0 -d (backtracking)
 Validate Binary Search Tree(#98) -d
-Same Tree ~ (#100)
-Symmetric Tree ~ (#101)
-Binary Tree Level Order Traversal (#102)
+Same Tree ~ (#100) -d
+Symmetric Tree ~ (#101) -d
+Binary Tree Level Order Traversal (#102) -d 
 Convert Sorted List to Binary Search Tree (#109)
 Populating Next Right Pointers in Each Node (#116)
 Best Time to Buy and Sell Stock (#121) -d 
