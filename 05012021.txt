@@ -1,0 +1,11 @@
+ - curat 
+ - schimbat monitoare 
+ - vezi de grup IDS daca e totul ok 
+
+
+11-13 Leetcode
+13:45-15:45 intrebari cs fundamentals
+16:15 - 17:15 treaba azi
+17:45-19:15 personalitate
+19:45 sala
+venit citit + leetcode

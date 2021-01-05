@@ -1,0 +1,4 @@
+OS:
+1.You won’t need to know how to build your own operating system from scratch,
+but you should be familiar with some OS topics that can affect code performance
+(e.g. memory management, processes, threads, synchronization, paging, and multithreading).
