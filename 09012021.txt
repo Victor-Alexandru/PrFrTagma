@@ -1,0 +1,4 @@
+15:30 -17:30 LC
+17:50 - 18: 50 load balancer
+19:15 - 21 :15 retrospectiva + ce mai ai de facut
+facut program atunci
